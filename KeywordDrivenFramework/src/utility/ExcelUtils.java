@@ -13,7 +13,7 @@ public class ExcelUtils
 private static XSSFSheet ExcelWSheet;
 private static XSSFWorkbook ExcelWBook;
 private static XSSFCell Cell;
-
+//To write to excelfile
 public static void setExcelFile(String Path, String SheetName ) throws Exception
 {
 	 FileInputStream ExcelFile = new FileInputStream(Path);
