@@ -35,7 +35,7 @@ public class DriverScript
 
 		ExcelUtils.setExcelFile(Constants.Path_TestData,Constants.Sheet_TestSteps);
 		//This is to start the Log4j logging in the test case
-		PropertyConfigurator.configure("C:\\Users\\Archana\\seleniumTutorias\\Demo\\Demo\\Logfolder\\log4j.properties");
+		PropertyConfigurator.configure("C:\\Users\\Archana\\git\\KDF\\KeywordDrivenFramework\\Logfolder\\log4j.properties");
 		DriverScript startEngine = new DriverScript();
 
 

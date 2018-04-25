@@ -8,9 +8,9 @@ public class Constants
     //Declared as 'final', so that the value of this variable can be changed
     // 'String' & 'int' are the data type for storing a type of value	
 	public static final String URL = "http://www.gmail.com";
-	public static final String Path_TestData = "C:\\Users\\Archana\\seleniumTutorias\\Demo\\Demo\\src\\dataEngine\\DataEngine.xlsx";
+	public static final String Path_TestData = "C:\\Users\\Archana\\git\\KDF\\KeywordDrivenFramework\\src\\dataEngine\\DataEngine.xlsx";
 	public static final String File_TestData = "DataEngine.xlsx";
-	public static final String Prop_path = "C:\\Users\\Archana\\seleniumTutorias\\Demo\\Demo\\src\\config\\OR.properties";
+	public static final String Prop_path = "C:\\Users\\Archana\\git\\KDF\\KeywordDrivenFramework\\src\\config\\OR.properties";
 	public static final int KeywordsNo = 5 ;
 	//List of Data Sheet Column Numbers
 	public static final int Col_TestCaseID = 0;	
